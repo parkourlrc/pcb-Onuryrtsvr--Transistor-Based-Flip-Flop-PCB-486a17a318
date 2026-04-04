@@ -7,7 +7,7 @@
 - **Board Dimensions:** 51 mm x 28 mm
 
 ## 📂Files
-- **/Hardware**: KiCad project files (.kicad_pcb, .kicad_sch).
+- **/kiCad-Project**: KiCad project files (.kicad_pcb, .kicad_sch).
 - **/Fabrication**: Gerber and Drill files. Mirrored pdf file of the PCB.
 - **/Images**: schematic, PCB images.
 
